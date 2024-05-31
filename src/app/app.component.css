@@ -1,0 +1,42 @@
+.card {
+    margin-top: 10px;
+}
+
+.container-fluid {
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+mat-form-field {
+    width: 100%;
+    height: 80%;
+    margin: 5px;
+}
+
+.btnAgregar {    
+    margin-right: 5px;
+}
+
+.example-form-field {
+    margin-right: 20px;
+}
+
+.container {
+    width: 70%;
+}
+
+.delete {
+    cursor: pointer;
+    color: #E15639;
+}
+
+.edit {
+    cursor: pointer;
+    color: #1878B0;
+}
+
+.search {
+    cursor: pointer;
+
+}
